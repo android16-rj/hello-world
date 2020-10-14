@@ -15,3 +15,5 @@ so i've created pull request for the branch readme-edits and merged the same to 
 and further created another branch named first-edit.
 another thing i read today is saved changes in git are called as commit.
 each commit has an associated messages, which is a description explaining why a particular change has made.
+so i am now making a commit change, actually in a due process i already made a commit change but forgot to write the commit message.
+now i'll write the commit message 
